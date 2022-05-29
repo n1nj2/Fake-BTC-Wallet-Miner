@@ -1,0 +1,8 @@
+pyfiglet 
+colorama 
+ctypes
+time
+random
+string
+sys
+os 
