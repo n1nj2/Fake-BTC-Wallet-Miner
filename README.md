@@ -6,5 +6,7 @@ Python 3 Fake BTC Wallet Miner
 
 ## Installation
 $ git clone https://github.com/n1nj2/Fake-BTC-Wallet-Miner.git
+
 $ pip3 install -r requirements.txt
+
 $ python3 miner.py
